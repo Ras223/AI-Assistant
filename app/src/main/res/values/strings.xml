@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AI Personal</string>
+    <string name="welcome_title">Selamat Datang!</string>
+    <string name="welcome_subtitle">Apa yang bisa saya bantu hari ini?</string>
+    <string name="start_new_chat">Mulai Percakapan</string>
+    <string name="start_new_chat_desc">Tanya AI tentang apa saja</string>
+    <string name="view_history">Riwayat</string>
+    <string name="view_history_desc">Lihat obrolan sebelumnya</string>
+    <string name="new_chat_button">+ Chat Baru</string>
+    <string name="history_title">Riwayat Topik</string>
+    <string name="chat_hint">Tanya sesuatu&#8230;</string>
+</resources>
